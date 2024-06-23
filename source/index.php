@@ -13,4 +13,13 @@
         <link rel="stylesheet" href="./styles/style.css">
         <script src="./scripts/main.js"></script>
     </head>
+    <body>
+        <div class="container">
+            <div class="clock">
+                <div class="time">
+                    
+                </div>
+            </div>
+        </div>
+    </body>
 </html>
