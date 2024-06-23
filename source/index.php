@@ -17,7 +17,9 @@
         <div class="container">
             <div class="clock">
                 <div class="time">
-                    
+                    <?php 
+                        echo date("h:i:s A");
+                    ?>
                 </div>
             </div>
         </div>
