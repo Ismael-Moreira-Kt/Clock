@@ -9,5 +9,8 @@
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
     
         <title>PHP Clock</title>
+    
+        <link rel="stylesheet" href="./styles/style.css">
+        <script src="./scripts/main.js"></script>
     </head>
 </html>
